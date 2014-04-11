@@ -1,0 +1,9 @@
+IP server 161.116.52.183
+
+Execute Peer.jar:
+
+$ java -jar Peer.jar nickname hostadress port
+
+Example:
+
+$ java -jar Peer.jar usuari 161.116.52.183 1099
